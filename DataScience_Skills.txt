@@ -1,0 +1,91 @@
+
+------------    The skills needed for a Data-Scientist job.    ------------
+
+A data scientist typically requires a combination of 
+    technical skills, 
+    domain knowledge, and 
+    soft skills to excel in their role. 
+Here's a list of skills commonly needed for a data scientist job:
+
+
+
+01. Programming Skills:
+        Proficiency in programming languages like Python, R, or SQL.
+        Ability to write efficient and scalable code for data analysis, manipulation, and modeling.
+
+
+02. Statistical Analysis:
+        Strong understanding of statistical concepts and methods.
+        Ability to apply statistical techniques to analyze and interpret data.
+
+
+03. Machine Learning and Data Modeling:
+        Knowledge of machine learning algorithms and techniques.
+        Experience with building and evaluating predictive models, such as regression, classification, clustering, and deep learning models.
+
+
+04. Data Wrangling and Preprocessing:
+        Expertise in data cleaning, transformation, and preprocessing techniques.
+        Ability to handle missing data, outliers, and noisy data effectively.
+
+
+05. Data Visualization:
+        Proficiency in data visualization libraries/tools like Matplotlib, Seaborn, ggplot, or Tableau.
+        Ability to create clear and informative visualizations to communicate insights from data.
+
+
+06. Big Data Technologies:
+        Familiarity with big data processing frameworks like Hadoop, Spark, or distributed computing platforms.
+        Experience with working with large-scale datasets and optimizing performance.
+
+
+07. Domain Knowledge:
+        Understanding of the specific industry/domain in which the data scientist operates (e.g., finance, healthcare, e-commerce).
+        Knowledge of relevant business processes, challenges, and opportunities.
+
+
+08. Data Storytelling:
+        Ability to communicate complex technical concepts and insights to non-technical stakeholders effectively.
+        Skill in crafting compelling narratives and visualizations to tell stories with data.
+
+
+09. Experimental Design and A/B Testing:
+        Understanding of experimental design principles and hypothesis testing.
+        Experience with designing and analyzing A/B tests to evaluate the impact of changes or interventions.
+
+
+10. Problem-Solving and Critical Thinking:
+        Strong analytical and problem-solving skills.
+        Ability to approach problems with a structured and systematic mindset.
+
+
+11. Collaboration and Teamwork:
+        Ability to work effectively in interdisciplinary teams, collaborating with data engineers, analysts, and business stakeholders.
+        Excellent communication and interpersonal skills.
+
+
+12. Continuous Learning:
+        Willingness to stay updated with the latest developments in data science, machine learning, and related fields.
+        Dedication to continuous learning and professional development.
+
+These skills can vary depending on the specific job requirements and the organization's focus. 
+However, having a strong foundation in these areas can help aspiring data scientists succeed in their careers.
+
+
+
+
+----------------    Technologies need to learn to become a Data Scientist    ----------------
+
+
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
